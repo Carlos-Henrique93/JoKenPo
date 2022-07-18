@@ -19,25 +19,21 @@ namespace JoKenPo
 
         private void btnPedra_Click(object sender, EventArgs e)
         {
-<<<<<<< HEAD
-            StarGame(0);
-=======
 
->>>>>>> 0ca6d1739468213ac57afd7216620b78aa9f3a7a
+            StarGame(0);
+
         }
 
         private void btnPapel_Click(object sender, EventArgs e)
         {
-<<<<<<< HEAD
-            StarGame(2);
-=======
 
->>>>>>> 0ca6d1739468213ac57afd7216620b78aa9f3a7a
+            StarGame(2);
+
         }
 
         private void btnTesoura_Click(object sender, EventArgs e)
         {
-<<<<<<< HEAD
+
             StarGame(1);
         }
 
@@ -62,9 +58,7 @@ namespace JoKenPo
                     pictureBox2.Image = jogo.ImgPC;
                     break;
             }
-=======
 
->>>>>>> 0ca6d1739468213ac57afd7216620b78aa9f3a7a
         }
     }
 }
