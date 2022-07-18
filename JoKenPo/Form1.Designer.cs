@@ -35,12 +35,19 @@ namespace JoKenPo
             this.picResultado = new System.Windows.Forms.PictureBox();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
+<<<<<<< HEAD
+=======
+            this.label3 = new System.Windows.Forms.Label();
+>>>>>>> 0ca6d1739468213ac57afd7216620b78aa9f3a7a
             this.label4 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.btnPedra = new System.Windows.Forms.Button();
             this.btnPapel = new System.Windows.Forms.Button();
             this.btnTesoura = new System.Windows.Forms.Button();
+<<<<<<< HEAD
             this.labelResultado = new System.Windows.Forms.Label();
+=======
+>>>>>>> 0ca6d1739468213ac57afd7216620b78aa9f3a7a
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.picResultado)).BeginInit();
@@ -57,7 +64,10 @@ namespace JoKenPo
             // 
             // pictureBox1
             // 
+<<<<<<< HEAD
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+=======
+>>>>>>> 0ca6d1739468213ac57afd7216620b78aa9f3a7a
             this.pictureBox1.Location = new System.Drawing.Point(31, 96);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(200, 200);
@@ -66,7 +76,10 @@ namespace JoKenPo
             // 
             // pictureBox2
             // 
+<<<<<<< HEAD
             this.pictureBox2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+=======
+>>>>>>> 0ca6d1739468213ac57afd7216620b78aa9f3a7a
             this.pictureBox2.Location = new System.Drawing.Point(320, 96);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(200, 200);
@@ -75,7 +88,10 @@ namespace JoKenPo
             // 
             // picResultado
             // 
+<<<<<<< HEAD
             this.picResultado.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+=======
+>>>>>>> 0ca6d1739468213ac57afd7216620b78aa9f3a7a
             this.picResultado.Location = new System.Drawing.Point(625, 96);
             this.picResultado.Name = "picResultado";
             this.picResultado.Size = new System.Drawing.Size(200, 200);
@@ -87,7 +103,11 @@ namespace JoKenPo
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.SystemColors.Highlight;
+<<<<<<< HEAD
             this.label1.Location = new System.Drawing.Point(95, 64);
+=======
+            this.label1.Location = new System.Drawing.Point(99, 185);
+>>>>>>> 0ca6d1739468213ac57afd7216620b78aa9f3a7a
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(72, 29);
             this.label1.TabIndex = 4;
@@ -98,12 +118,30 @@ namespace JoKenPo
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.SystemColors.Highlight;
+<<<<<<< HEAD
             this.label2.Location = new System.Drawing.Point(358, 64);
+=======
+            this.label2.Location = new System.Drawing.Point(366, 185);
+>>>>>>> 0ca6d1739468213ac57afd7216620b78aa9f3a7a
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(112, 29);
             this.label2.TabIndex = 5;
             this.label2.Text = "Maquina";
             // 
+<<<<<<< HEAD
+=======
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.ForeColor = System.Drawing.SystemColors.Highlight;
+            this.label3.Location = new System.Drawing.Point(704, 185);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(26, 29);
+            this.label3.TabIndex = 6;
+            this.label3.Text = "?";
+            // 
+>>>>>>> 0ca6d1739468213ac57afd7216620b78aa9f3a7a
             // label4
             // 
             this.label4.AutoSize = true;
@@ -159,6 +197,7 @@ namespace JoKenPo
             this.btnTesoura.UseVisualStyleBackColor = true;
             this.btnTesoura.Click += new System.EventHandler(this.btnTesoura_Click);
             // 
+<<<<<<< HEAD
             // labelResultado
             // 
             this.labelResultado.AutoSize = true;
@@ -170,6 +209,8 @@ namespace JoKenPo
             this.labelResultado.TabIndex = 6;
             this.labelResultado.Text = "?";
             // 
+=======
+>>>>>>> 0ca6d1739468213ac57afd7216620b78aa9f3a7a
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -180,7 +221,11 @@ namespace JoKenPo
             this.Controls.Add(this.btnPedra);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label4);
+<<<<<<< HEAD
             this.Controls.Add(this.labelResultado);
+=======
+            this.Controls.Add(this.label3);
+>>>>>>> 0ca6d1739468213ac57afd7216620b78aa9f3a7a
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.picResultado);
@@ -206,12 +251,19 @@ namespace JoKenPo
         private System.Windows.Forms.PictureBox picResultado;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
+<<<<<<< HEAD
+=======
+        private System.Windows.Forms.Label label3;
+>>>>>>> 0ca6d1739468213ac57afd7216620b78aa9f3a7a
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Button btnPedra;
         private System.Windows.Forms.Button btnPapel;
         private System.Windows.Forms.Button btnTesoura;
+<<<<<<< HEAD
         private System.Windows.Forms.Label labelResultado;
+=======
+>>>>>>> 0ca6d1739468213ac57afd7216620b78aa9f3a7a
     }
 }
 
